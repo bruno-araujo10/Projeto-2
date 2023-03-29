@@ -1,4 +1,4 @@
-<h1 align="center">Projeto 1<h1>
+<h1 align="center">Projeto 2<h1>
 <br>
 <h2 align="center">Project developed through the teachings of <a href="https://rodolfomori.com/devclub">DevClub</a><h2>
 <br>
